@@ -62,10 +62,17 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+![Manual Calculations  (ADD)](https://github.com/user-attachments/assets/3da749e9-06d9-4187-a1be-6ffbb12a2aad)
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="637" height="422" alt="Add" src="https://github.com/user-attachments/assets/38464a22-2874-49ec-b9a3-185f360c5b0a" />
+<img width="640" height="480" alt="vetriadd" src="https://github.com/user-attachments/assets/fb5fc8a7-c01b-4e5e-950f-cb9c6b1428ec" />
+
+
+
 
 ## 2. SUBTRACTION
 
@@ -95,11 +102,17 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+![Manual Calculations (SUM)](https://github.com/user-attachments/assets/36bbe80d-ba21-4df2-ae1d-f91cae7ffd7b)
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="634" height="426" alt="Sum" src="https://github.com/user-attachments/assets/ffc06152-04db-4bb2-bf13-2a44e6998f48" />
+<img width="640" height="480" alt="vetrisum" src="https://github.com/user-attachments/assets/9957ccf4-2b5e-4b03-877c-9a7bd4729fab" />
+
+
 
 ## 3. MULTIPLICATION
 
@@ -144,10 +157,16 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+![Manual Calculations (MULTI)](https://github.com/user-attachments/assets/b8c73afd-a5d7-48d3-9615-b668d44c8917)
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="636" height="427" alt="Multi" src="https://github.com/user-attachments/assets/7bba912c-6857-489e-9f87-3b432db3b63f" />
+<img width="640" height="480" alt="vetrimulti" src="https://github.com/user-attachments/assets/88e6079a-9e94-43e4-bc88-eb29ae158184" />
+
+
 
 ## 4. DIVISION
 
@@ -189,9 +208,15 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+![Manual Calculations(DIV)](https://github.com/user-attachments/assets/f575b5e4-3a0f-4fdd-acbd-8e0c9c303f01)
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="639" height="427" alt="div" src="https://github.com/user-attachments/assets/fdec2040-1d7b-48d1-8e94-bde70af94758" />
+<img width="640" height="480" alt="vetridiv" src="https://github.com/user-attachments/assets/f3894549-cbb6-49a5-ab16-941a6e478851" />
+
+
 
 
 
